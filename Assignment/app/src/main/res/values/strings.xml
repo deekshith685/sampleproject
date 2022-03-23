@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="title_orders">Orders</string>
+    <string name="proceed_to_pay">Proceed (%1$s €)</string>
+</resources>

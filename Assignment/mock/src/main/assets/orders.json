@@ -1,0 +1,31 @@
+{
+  "order": [
+    {
+      "type": "pizza",
+      "size": "large",
+      "toppings": [
+        "cheese"
+      ],
+      "sauce": [
+        "red"
+      ]
+    },
+    {
+      "type": "pizza",
+      "size": "small",
+      "toppings": [
+        "cheese"
+      ]
+    },
+    {
+      "type": "pizza",
+      "size": "medium",
+      "toppings": [
+        "cheese"
+      ],
+      "sauce": [
+        "red"
+      ]
+    }
+  ]
+}

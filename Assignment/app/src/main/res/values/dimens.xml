@@ -1,0 +1,10 @@
+<resources>
+    <!-- spacing -->
+    <dimen name="spacing_zero">0dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_l">12dp</dimen>
+
+    <!-- text sizes -->
+    <dimen name="size_xs">10sp</dimen>
+    <dimen name="size_m">14sp</dimen>
+</resources>
